@@ -3,6 +3,7 @@ html {
 }
 
 div {
-  height: 1000000000px;
+  height: 1000px;
   width: 100%;
+  background-color: white;
 }
