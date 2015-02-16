@@ -2,3 +2,7 @@ html {
   background-color: #6b9e9f;
 }
 
+div {
+  height: 1000000000px;
+  width: 100%;
+}
