@@ -2,8 +2,21 @@ html {
   background-color: #6b9e9f;
 }
 
+ul {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #6d918b;
+}
+
+li {
+  display: inline;
+  color: white;
+}
+
 div {
-  height: 1000px;
-  width: 100%;
-  background-color: white;
+  height: 100px;
+  width: 90%;
+  margin: auto;
 }
