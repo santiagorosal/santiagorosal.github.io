@@ -1,12 +1,11 @@
 html {
-  background-color: white;
+  background-color: #a5dad2;
   font-family: Garamond;
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  background-color: #a5dad2;
 }
 
 li {
