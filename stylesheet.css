@@ -5,13 +5,14 @@ html {
 
 ul {
   list-style-type: none;
-  padding-right: 5px;
+  padding: 0;
   background-color: #a5dad2;
 }
 
 li {
   display: inline;
   color: white;
+  padding: 0px 5px;
 }
 
 div {
