@@ -8,7 +8,8 @@ html {
 
 #navbar {
   position: fixed;
-  color: #a5dad2;
+  background-color: #a5dad2;
+  color: white;
   opacity: 0.8;
   filter: alpha(opacity=80);
 }
@@ -16,14 +17,13 @@ html {
 #navbar ul {
   list-style-type: none;
   text-align: right;
-  padding: 0px 5px;
+  margin: 1em;
   font-size: 2em;
 }
 
 #navbar ul il {
   display: inline;
   padding: 0px 5px;
-  color: white;
 }
 
 #navbar a:hover {
