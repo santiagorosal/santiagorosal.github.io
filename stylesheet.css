@@ -21,6 +21,7 @@ a {
 
 ul il {
   display: inline;
+  padding: 0px 5px;
 }
 
 #navbar {
@@ -39,15 +40,6 @@ ul il {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-
-#navbar ul il {
-  display: inline;
-  padding: 0px 5px;
-}
-
-#navbar a {
-  display: block;
 }
 
 #navbar a:hover {
