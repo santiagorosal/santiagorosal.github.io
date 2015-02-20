@@ -26,7 +26,7 @@ a {
   filter: alpha(opacity=80);
   
   position: fixed;
-  margin-right: 1%;
+  margin-right: 10%;
 }
 
 #navbar ul {
