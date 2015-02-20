@@ -50,9 +50,13 @@ a {
   background-color: white;
 }
 
+#blank {
+ width: 100%;
+ height: 40em;
+}
+
 #about {
   color: #519191;
-  margin-top: 90%;
 }
 
 #about h1 {
