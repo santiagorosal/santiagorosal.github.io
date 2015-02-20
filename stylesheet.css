@@ -47,13 +47,6 @@ a {
   background-color: white;
 }
 
-#main {
-  height: 50%;
-  position: fixed;
-  color: "";
-}
-
 #footer {
-  position: fixed;
-  min-height: 20%;
+  float: bottom;
 }
