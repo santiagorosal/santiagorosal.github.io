@@ -14,6 +14,17 @@ div {
   width: 100%;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  padding: 1% 1% 5px 5px;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -32,18 +43,6 @@ a {
   
   position: fixed;
 }
-
-#navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#navbar ul li {
-  display: inline;
-  padding: 1% 1% 5px 5px;
-}
-
 
 #navbar a:hover {
   color: #bbe3dd;
