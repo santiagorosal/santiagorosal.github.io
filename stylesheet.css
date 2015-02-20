@@ -6,6 +6,11 @@ html {
   font-family: Garamond;
 }
 
+img {
+  height: 50px;
+  width 50px;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -43,8 +48,9 @@ a {
 }
 
 #main {
-  min-height: 50%;
+  height: 50%;
   position: fixed;
+  color: "";
 }
 
 #footer {
