@@ -44,8 +44,10 @@ a {
 
 #main {
   min-height: 50%;
+  position: fixed;
 }
 
 #footer {
+  position: fixed;
   min-height: 20%;
 }
