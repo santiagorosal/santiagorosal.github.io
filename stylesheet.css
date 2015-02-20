@@ -36,7 +36,7 @@ il {
   opacity: 0.8;
   
   width: 20%;
-  padding: 5%;
+  padding: 1%;
   
   font-size: 2em;
   font-weight: bold;
@@ -44,7 +44,7 @@ il {
   
   position: fixed;
   float: right;
-  margin-left: 45%;
+  margin-left: 75%;
 }
 
 #navbar a:hover {
