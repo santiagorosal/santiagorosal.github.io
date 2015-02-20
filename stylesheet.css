@@ -26,6 +26,17 @@ a {
   color: white;
 }
 
+#navbar {
+  color: #a5dad2;
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+}
+
+#navbar a:hover {
+  color: #bbe3dd;
+  background-color: white;
+}
+
 rect {
   float: top;
   position: relative;
