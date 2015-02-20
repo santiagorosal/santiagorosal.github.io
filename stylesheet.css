@@ -15,10 +15,6 @@ a {
   color: white;
 }
 
-* {
-  margin: 0;
-}
-
 html, body {
   height: 100%;
 }
@@ -38,7 +34,7 @@ html, body {
   height: 142px; 
 }
 .site-footer {
-  
+  color: white;
 }
 
 #navbar ul {
