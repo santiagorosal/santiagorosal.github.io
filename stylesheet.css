@@ -59,7 +59,7 @@ a {
 #about {
   color: #519191;
   margin-top: 10%;
-  margin-bottom: 50%;
+  margin-bottom: 30%;
 }
 
 #about h1 {
@@ -76,7 +76,11 @@ a {
 }
 
 #platform {
+  background-color: #a5dad2;
+  color: white;
   
+  margin-top: 20%;
+  margin bottom: 20%;
 }
 
 #platform h1 {
