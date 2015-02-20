@@ -41,6 +41,17 @@ html, body {
   
 }
 
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar ul li {
+  display: inline;
+  padding: 1% 1% 5px 5px;
+}
+
 #navbar {
   background-color: #a5dad2;
   color: white;
