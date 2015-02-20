@@ -6,6 +6,18 @@ html {
   font-family: Garamond;
 }
 
+#navbar {
+  color: #a5dad2;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  position: fixed;
+}
+
+#navbar a:hover {
+  color: #bbe3dd;
+  background-color: white;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -24,17 +36,6 @@ div {
 a {
   text-decoration: none;
   color: white;
-}
-
-#navbar {
-  color: #a5dad2;
-  opacity: 0.8;
-  filter: alpha(opacity=80);
-}
-
-#navbar a:hover {
-  color: #bbe3dd;
-  background-color: white;
 }
 
 rect {
