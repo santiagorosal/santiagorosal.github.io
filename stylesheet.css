@@ -6,6 +6,10 @@ html {
   font-family: Garamond;
 }
 
+head {
+  margin-top: 20%;
+}
+
 img {
   height: 50px;
   width 50px;
