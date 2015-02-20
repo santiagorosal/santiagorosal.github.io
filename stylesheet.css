@@ -12,6 +12,7 @@ html {
   color: white;
   opacity: 0.8;
   filter: alpha(opacity=80);
+  float: right;
 }
 
 #navbar ul {
@@ -24,6 +25,7 @@ html {
 #navbar ul il {
   display: inline;
   padding: 0px 5px;
+  float: right;
 }
 
 #navbar a:hover {
@@ -31,6 +33,9 @@ html {
   background-color: white;
 }
 
+header {
+  margin-top: 5em;
+}
 
 div {
   width: 100%;
