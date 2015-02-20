@@ -40,7 +40,7 @@ ul il {
   text-align: right;
   
   position: fixed;
-  padding: 1%;
+  margin: 1%;
 }
 
 #navbar a:hover {
