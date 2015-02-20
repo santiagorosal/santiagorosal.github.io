@@ -63,11 +63,23 @@ a {
   text-align: right;
   font-weight: italic;
   font-size: 1.5em;
-  margin: 1%;
+  margin: 5% 2%;
 }
 
 #about p {
   text-align: center;
   font-size: 1.25em;
-  margin 20%;
+  margin: 0% 20%;
+}
+
+#platform {
+  
+}
+
+#platform h1 {
+  
+}
+
+#platform table {
+  margin: 0% 5%;
 }
