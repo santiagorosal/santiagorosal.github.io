@@ -19,31 +19,26 @@ a {
   color: white;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  display: inline;
-}
-
 #navbar {
   background-color: #a5dad2;
   color: white;
   opacity: 0.8;
-  
-  width: 20%;
-  padding: 1%;
   
   font-size: 2em;
   font-weight: bold;
   text-align: right;
   
   position: fixed;
-  float: right;
-  margin-left: 75%;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar ul li {
+  display: inline;
 }
 
 #navbar a:hover {
