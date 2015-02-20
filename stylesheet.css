@@ -42,10 +42,10 @@ a {
   background-color: white;
 }
 
-body {
+#body {
   min-height: 80%;
 }
 
-footer {
+#footer {
   min-height: 20%;
 }
