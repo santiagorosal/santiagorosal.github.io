@@ -6,41 +6,6 @@ html {
   font-family: Garamond;
 }
 
-#navbar {
-  background-color: #a5dad2;
-  color: white;
-  opacity: 0.8;
-  filter: alpha(opacity=80);
-  
-  position: fixed;
-  float: right;
-}
-
-#navbar ul {
-  list-style-type: none;
-  text-align: right;
-  margin: 1em;
-  font-size: 2em;
-}
-
-#navbar ul il {
-  display: inline;
-  padding: 0px 5px;
-  float: right;
-  font-weight: bold;
-}
-
-#blank {
-  width: 100%;
-  height: 40em;
-  border: 0px solid #000;"
-}
-
-#navbar a:hover {
-  color: #bbe3dd;
-  background-color: white;
-}
-
 header {
   margin-top: 5em;
 }
@@ -54,7 +19,52 @@ a {
   color: white;
 }
 
-rect {
-  float: top;
-  position: relative;
+#navbar {
+  background-color: #a5dad2;
+  color: white;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  
+  position: fixed;
+}
+
+#navbar ul {
+  list-style-type: none;
+  text-align: right;
+  font-size: 2em;
+}
+
+#navbar ul il {
+  display: inline;
+  padding: 0px 5px;
+  font-weight: bold;
+}
+
+#navbar a:hover {
+  color: #bbe3dd;
+  background-color: white;
+}
+
+#blank {
+  width: 100%;
+  height: 40em;
+  border: 0px solid #000;"
+}
+
+#about {
+  color: #519191;
+  margin-top: 5em;
+}
+
+#about h1 {
+  text-align: right;
+  font-weight: italic;
+  font-size: 1.5em;
+  margin: 1%;
+}
+
+#about p {
+  text-align: center;
+  font-size: 1.25em;
+  margin 10%;
 }
