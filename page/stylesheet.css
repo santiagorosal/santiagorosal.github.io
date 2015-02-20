@@ -2,6 +2,10 @@ html {
   font-family: Garamond;
 }
 
+head {
+  margin-top: 20%;
+}
+
 div {
   width: 100%;
 }
