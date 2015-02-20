@@ -25,7 +25,7 @@ ul {
   padding: 0;
 }
 
-ul il {
+il {
   display: inline;
   padding: 0px 5px;
 }
@@ -35,7 +35,8 @@ ul il {
   color: white;
   opacity: 0.8;
   
-  width: 50%;
+  width: 20%;
+  padding: 5%;
   
   font-size: 2em;
   font-weight: bold;
