@@ -14,18 +14,25 @@ div {
   width: 100%;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul il {
+  display: inline;
+}
+
 #navbar {
   background-color: #a5dad2;
   color: white;
   opacity: 0.8;
-  filter: alpha(opacity=80);
   
   font-size: 2em;
   font-weight: bold;
   text-align: right;
   
   position: fixed;
-  z-index: 10;
 }
 
 #navbar ul {
@@ -38,7 +45,6 @@ div {
 }
 
 #navbar a:hover {
-  text-decoration: none;
   color: #bbe3dd;
   background-color: white;
 }
