@@ -92,8 +92,12 @@ a {
   font-size: 3em;
 }
 
-#vote, #meeting p {
+#meeting p {
   font-size: 2em;
+}
+
+#vote {
+  color: #bbe3dd;
 }
 
 #footer {
