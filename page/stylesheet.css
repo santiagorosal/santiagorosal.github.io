@@ -52,6 +52,10 @@ a {
   color: #519191;
 }
 
+#about html {
+  background-image: url("images/background.png");
+}
+
 #about h1 {
   text-align: right;
   font-weight: italic;
