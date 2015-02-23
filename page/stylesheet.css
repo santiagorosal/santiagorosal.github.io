@@ -89,11 +89,13 @@ a {
 #vote, #meeting h2 {
   text-align: center;
   font-weight: italic;
+  font-size: 3em;
 }
 
 #vote, #meeting a {
   color: #bbe3dd;
   text-align: center;
+  font-size: 2em;
 }
 
 #footer {
