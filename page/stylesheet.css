@@ -75,7 +75,11 @@ a {
 }
 
 #platform table {
-  margin: 0% 2%;
+  margin: 0% 1%;
+}
+
+#platform table tr td {
+  margin: 0% 1%;
 }
 
 #footer {
