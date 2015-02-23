@@ -84,29 +84,16 @@ a {
 
 #vote, #meeting {
   color: #bbe3dd;
+  text-align: center;
 }
 
 #vote, #meeting h2 {
-  text-align: center;
   font-weight: italic;
   font-size: 3em;
 }
 
 #vote, #meeting p {
-  color: #bbe3dd;
-  text-align: center;
   font-size: 2em;
-}
-
-#vote a {
-  color: #bbe3dd;
-  text-align: center;
-  font-size: 2em;
-}
-
-#vote a:hover {
-  color: #bbe3dd;
-  background-color: white;
 }
 
 #footer {
