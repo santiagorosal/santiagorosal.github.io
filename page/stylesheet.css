@@ -68,18 +68,15 @@ a {
 #platform {
   background-color: #a5dad2;
   color: white;
+  text-align: center;
 }
 
 #platform h1 {
-  
+  font-size: 10em;
 }
 
-#platform table {
-  margin: 0% 1%;
-}
-
-#platform table tr td {
-  margin: 0% 1%;
+#platform p {
+  font-size: 5em;
 }
 
 #footer {
