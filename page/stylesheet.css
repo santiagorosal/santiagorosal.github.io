@@ -82,6 +82,19 @@ a {
   font-size: 2em;
 }
 
+#accountability {
+  color: #bbe3dd;
+}
+
+#accountability h2 {
+  text-align: center;
+  font-weight: italic;
+}
+
+#accountability a {
+  color: #bbe3dd;
+}
+
 #footer {
   float: bottom;
 }
