@@ -98,10 +98,15 @@ a {
   font-size: 2em;
 }
 
-#vote, #meeting a {
+#vote a {
   color: #bbe3dd;
   text-align: center;
   font-size: 2em;
+}
+
+#vote a:hover {
+  color: #bbe3dd;
+  background-color: white;
 }
 
 #footer {
