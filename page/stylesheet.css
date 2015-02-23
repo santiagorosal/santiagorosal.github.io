@@ -92,6 +92,12 @@ a {
   font-size: 3em;
 }
 
+#vote, #meeting p {
+  color: #bbe3dd;
+  text-align: center;
+  font-size: 2em;
+}
+
 #vote, #meeting a {
   color: #bbe3dd;
   text-align: center;
