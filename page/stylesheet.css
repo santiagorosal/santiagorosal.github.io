@@ -80,6 +80,11 @@ a {
   font-size: 2em;
 }
 
+#platform img {
+  height: 5em;
+  width: 5em;
+}
+
 #vote, #meeting {
   color: #bbe3dd;
   text-align: center;
